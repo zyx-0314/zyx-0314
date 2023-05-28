@@ -67,19 +67,20 @@ company: Argon Software
 ```
 
 **:computer: Languages & Tools:**
-Data Science:
+
+:bar_chart: Data Science:
 
 [![Python][python.com]][python-url]
 
-Game Dev:
+:video_game: Game Dev:
 
 [![C++][cpp.com]][cpp-url] - [![C#][csharp.com]][csharp-url]
 
-Mobile Dev:
+:iphone:Mobile Dev:
 
 [![Kotlin][kotlin.com]][kotlin-url] - [![ReactNative][reactnative.com]][reactnative-url]
 
-Web Dev:
+:pager: Web Dev:
 
 [![NextJS][NextJS.com]][NextJS-url] - [![ReactJS][ReactJS.com]][ReactJS-url]
 
@@ -89,7 +90,7 @@ Web Dev:
 
 [![MySQL][Mysql.com]][Mysql-url] - [![MariaDB][MariaDB.com]][MariaDB-url]
 
-Tools:
+:wrench: Tools:
 
 [![AI][Docker.com]][Docker-url] - [![Postman][Postman.com]][Postman-url] - [![Github][Github.com]][Github-url] - [![Android-studio][Android-studio.com]][Android-studio-url] - [![Visual-studio-code][Visual-studio-code.com]][Visual-studio-code-url] - [![Unity][Unity.com]][Unity-url] - [![Unreal-engine][unreal-engine.com]][unreal-engine-url] - [![Insomia][insomia.com]][insomia-url]
 
