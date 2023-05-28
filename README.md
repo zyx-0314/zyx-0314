@@ -48,7 +48,7 @@ company: Argon Software
 
 ```
 
-**Technical_Background.json**
+**:screwdriver:Technical_Background.json**
 ```json
 {
   "Web-Dev": [
@@ -66,7 +66,8 @@ company: Argon Software
 }
 ```
 
-**Languages & Tools**
+**:computer: Languages & Tools:**
+
 [![NextJS][NextJS.com]][NextJS-url] - [![ReactJS][ReactJS.com]][ReactJS-url]
 [![Laravel][Laravel.com]][Laravel-url] - [![NodeJS][NodeJS.com]][NodeJS-url]
 [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url] - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
