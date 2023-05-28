@@ -67,6 +67,19 @@ company: Argon Software
 ```
 
 **:computer: Languages & Tools:**
+Data Science:
+
+[![Python][python.com]][python-url]
+
+Game Dev:
+
+[![C++][cpp.com]][cpp-url] - [![C#][csharp.com]][csharp-url]
+
+Mobile Dev:
+
+[![Kotlin][kotlin.com]][kotlin-url] - [![ReactNative][reactnative.com]][reactnative-url]
+
+Web Dev:
 
 [![NextJS][NextJS.com]][NextJS-url] - [![ReactJS][ReactJS.com]][ReactJS-url]
 
@@ -75,6 +88,8 @@ company: Argon Software
 [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url] - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
 [![MySQL][Mysql.com]][Mysql-url] - [![MariaDB][MariaDB.com]][MariaDB-url]
+
+Tools:
 
 [![AI][Docker.com]][Docker-url] - [![Postman][Postman.com]][Postman-url] - [![Github][Github.com]][Github-url] - [![Android-studio][Android-studio.com]][Android-studio-url] - [![Visual-studio-code][Visual-studio-code.com]][Visual-studio-code-url] - [![Unity][Unity.com]][Unity-url] - [![Unreal-engine][unreal-engine.com]][unreal-engine-url] - [![Insomia][insomia.com]][insomia-url]
 
@@ -123,8 +138,6 @@ company: Argon Software
 
 **🐱 My GitHub Data** 
 
-> 📦 325.0 kB Used in GitHub's Storage 
- > 
 > 🏆 313 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
@@ -193,3 +206,16 @@ note: thanks to both of them!
 [unreal-engine-url]: https://www.unrealengine.com/en-US/
 [insomia.com]: https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white
 [insomia-url]: https://insomnia.rest
+
+[cpp.com]: https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[cpp-url]: https://www.cplusplus.com
+[csharp.com]: https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+[csharp-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
+
+[python.com]: https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+[python-url]: https://www.python.org
+
+[kotlin.com]: https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white
+[kotlin-url]: https://kotlinlang.org
+[reactnative.com]: https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[reactnative-url]: https://reactnative.dev
