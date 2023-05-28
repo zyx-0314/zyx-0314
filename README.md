@@ -69,8 +69,11 @@ company: Argon Software
 **:computer: Languages & Tools:**
 
 [![NextJS][NextJS.com]][NextJS-url] - [![ReactJS][ReactJS.com]][ReactJS-url]
+
 [![Laravel][Laravel.com]][Laravel-url] - [![NodeJS][NodeJS.com]][NodeJS-url]
+
 [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url] - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+
 [![MySQL][Mysql.com]][Mysql-url] - [![MariaDB][MariaDB.com]][MariaDB-url]
 
 [![AI][Docker.com]][Docker-url] - [![Postman][Postman.com]][Postman-url] - [![Github][Github.com]][Github-url] - [![Android-studio][Android-studio.com]][Android-studio-url] - [![Visual-studio-code][Visual-studio-code.com]][Visual-studio-code-url] - [![Unity][Unity.com]][Unity-url] - [![Unreal-engine][unreal-engine.com]][unreal-engine-url] - [![Insomia][insomia.com]][insomia-url]
