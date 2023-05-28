@@ -88,6 +88,8 @@ company: Argon Software
 
 [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url] - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
+:bank: Database
+
 [![MySQL][Mysql.com]][Mysql-url] - [![MariaDB][MariaDB.com]][MariaDB-url]
 
 :wrench: Tools:
