@@ -145,9 +145,9 @@ company: Argon Software
  > 
 > 💼 Opted to Hire
  > 
-> 📜 42 Public Repositories 
+> 📜 8 Public Repositories 
  > 
-> 🔑 12 Private Repositories 
+> 🔑 14 Private Repositories 
  > 
 
 <br/>
