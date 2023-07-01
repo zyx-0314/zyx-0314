@@ -16,10 +16,10 @@
 <br />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="https://www.linkedin.com/in/ian-cedric-ramirez">
   <img alt="guilyx's LinkdeIN" width="30px" src="./linkedin.png" />
 </a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
+<a href="https://www.facebook.com/ramirez.zyx.14/">
   <img alt="guilyx's LinkdeIN" width="30px" src="./facebook.png" />
 </a>
 <br>
