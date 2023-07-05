@@ -42,7 +42,8 @@ company: Argon Software
     "title": "Software Engineer - Intern",
     "company": "Argon Software",
     "location": "Philippines",
-    "from": "March 2023 - Present",
+    "dates": "March 2023 - June 2023",
+    "duration": "4 months",
   }
 ]
 
