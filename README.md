@@ -28,12 +28,12 @@
 **:eyes: Bio_Data.yml:**
 
 ```yaml
-name: Zyx Ramirez
+name: Ina Cedric 'Zyx' Ramirez
 located_in: Philippines
 from: Philippines
-job: Software Engineer - Intern
+job: N/A
 education: [ "Bachelor's in Computer Science" ]
-company: Argon Software
+company: N/A
 ```
 **:zzz: Experience.json:**
 ```json
@@ -132,7 +132,23 @@ company: Argon Software
 <br/>
 
 **:zap: Projects:**
-<small> Soon to come! </small>
+<h3>Ongoing 🟢</h3>
+
+<h3>Done ✔️</h3>
+
+```json
+{
+  "type": "File Management System",
+  "description": "The System compiles documents name and locations with important data needed for quick glance and tracking.",
+  "features": [
+    "Create, Read, Update and Delete Documents with Specified Information.",
+    "Document Associated to",
+    "File Locations"
+  ],
+  "tech": "Next.JS"
+}
+```
+
 
 <br/>
 
@@ -146,9 +162,9 @@ company: Argon Software
  > 
 > 💼 Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 2 Public Repositories 
  > 
-> 🔑 14 Private Repositories 
+> 🔑 19 Private Repositories 
  > 
 
 <br/>
@@ -160,11 +176,12 @@ company: Argon Software
 **My Time 🦉** 
 
 ```text
-🌞 Morning                                    █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
-🌆 Daytime                                    ████████░░░░░░░░░░░░░░░░░   31.86 % 
-🌃 Evening                                    ███████████░░░░░░░░░░░░░░   44.57 % 
-🌙 Night                                      █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
+🌅 Morning                                    ████████░░░░░░░░░░░░░░░░░   35.25 % 
+☀️ Afternoon                                  █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+🌃 Evening                                    ██████████████░░░░░░░░░░░   59.87 % 
 ```
+
+**Credits 🔖**
 
 ```yaml
 tutorial_path: guilyx/guilyx/how-to.md
