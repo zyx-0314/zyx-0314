@@ -190,7 +190,7 @@ company: N/A
  > 
 > 💼 Opted to Hire
  > 
-> 📜 2 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 19 Private Repositories 
  > 
