@@ -134,6 +134,34 @@ company: N/A
 **:zap: Projects:**
 <h3>Ongoing 🟢</h3>
 
+```json
+[
+  {
+    "type": "Local Church Membership Management System",
+    "description": "The system compiles membership information of the local church.",
+    "features": [
+      "Create, Read, Update and Delete Documents.",
+      "Track Members Documents.",
+      "Track Registered Documents and Request Documents.",
+      "File Locations"
+    ],
+    "tech": ["Next.JS", "Firebase", "Emotion CSS", "Tailwind CSS"]
+  },
+  {
+    "type": "Portfolio Page",
+    "description": "The system compiles membership information of the local church.",
+    "features": [
+      "Create, Read, Update and Delete Documents.",
+      "Track Members Documents.",
+      "Track Registered Documents and Request Documents.",
+      "File Locations"
+    ],
+    "tech": ["Next.JS", "Emotion CSS", "Tailwind CSS"],
+    "link": "https://github.com/zyx-0314/portfolio"
+  }
+]
+```
+
 <h3>Done ✔️</h3>
 
 ```json
