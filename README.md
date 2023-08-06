@@ -147,6 +147,22 @@ company: N/A
     ],
     "tech": ["Next.JS", "Firebase", "Emotion CSS", "Tailwind CSS"]
   },
+]
+```
+
+<h3>Done ✔️</h3>
+
+```json
+  {
+    "type": "File Management System",
+    "description": "The System compiles documents name and locations with important data needed for quick glance and tracking.",
+    "features": [
+      "Create, Read, Update and Delete Documents with Specified Information.",
+      "Document Associated to",
+      "File Locations"
+    ],
+    "tech": "Next.JS"
+  },
   {
     "type": "Portfolio Page",
     "description": "The system compiles membership information of the local church.",
@@ -158,23 +174,7 @@ company: N/A
     ],
     "tech": ["Next.JS", "Emotion CSS", "Tailwind CSS"],
     "link": "https://github.com/zyx-0314/portfolio"
-  }
-]
-```
-
-<h3>Done ✔️</h3>
-
-```json
-{
-  "type": "File Management System",
-  "description": "The System compiles documents name and locations with important data needed for quick glance and tracking.",
-  "features": [
-    "Create, Read, Update and Delete Documents with Specified Information.",
-    "Document Associated to",
-    "File Locations"
-  ],
-  "tech": "Next.JS"
-}
+  },
 ```
 
 
