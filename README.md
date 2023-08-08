@@ -16,11 +16,17 @@
 <br />
 
 <p align="center">
+<a href="https://ian-cedric-ramirez.vercel.app/">
+  <img alt="Ian Cedric Ramirez Portfolio" width="30px" src="./nyebe_white_cutout.png" />
+</a>
+<a href="https://www.figma.com/@nyebecreations">
+  <img alt="Ian Cedric Ramirez Figma" width="30px" src="./Figma.png" />
+</a>
 <a href="https://www.linkedin.com/in/ian-cedric-ramirez">
-  <img alt="guilyx's LinkdeIN" width="30px" src="./linkedin.png" />
+  <img alt="Ian Cedric Ramirez LinkdeIN" width="30px" src="./linkedin.png" />
 </a>
 <a href="https://www.facebook.com/ramirez.zyx.14/">
-  <img alt="guilyx's LinkdeIN" width="30px" src="./facebook.png" />
+  <img alt="Ian Cedric Ramirez Facebook" width="30px" src="./facebook.png" />
 </a>
 <br>
 </p>
@@ -28,7 +34,7 @@
 **:eyes: Bio_Data.yml:**
 
 ```yaml
-name: Ina Cedric 'Zyx' Ramirez
+name: Ian Cedric 'Zyx' Ramirez
 located_in: Philippines
 from: Philippines
 job: N/A
@@ -147,7 +153,8 @@ company: N/A
       "Track Registered Documents and Request Documents.",
       "File Locations"
     ],
-    "tech": ["Next.JS", "Firebase", "Emotion CSS", "Tailwind CSS"]
+    "tech": ["Next.JS", "Firebase", "Emotion CSS", "Tailwind CSS"],
+    "remarks": "Commissioned Project"
   },
 ]
 ```
@@ -163,7 +170,8 @@ company: N/A
       "Document Associated to",
       "File Locations"
     ],
-    "tech": "Next.JS"
+    "tech": "Next.JS",
+    "remarks": "Commissioned Project"
   },
   {
     "type": "Portfolio Page",
@@ -175,7 +183,11 @@ company: N/A
       "File Locations"
     ],
     "tech": ["Next.JS", "Emotion CSS", "Tailwind CSS"],
-    "link": "https://github.com/zyx-0314/portfolio"
+    "link": {
+      "UI/UX": "https://www.figma.com/community/file/1268740358486001871/Portfolio-Project",
+      "Source Code": "https://github.com/zyx-0314/portfolio",
+      "Deployed": "https://ian-cedric-ramirez.vercel.app/",
+    }
   },
 ```
 
@@ -188,7 +200,7 @@ company: N/A
 
 **🐱 My GitHub Data** 
 
-> 🏆 313 Contributions in the Year 2023
+> 🏆 670 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
