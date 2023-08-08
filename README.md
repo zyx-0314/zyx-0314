@@ -20,7 +20,7 @@
   <img alt="Ian Cedric Ramirez Portfolio" width="30px" src="./nyebe_white_cutout.png" />
 </a>
 <a href="https://www.figma.com/@nyebecreations">
-  <img alt="Ian Cedric Ramirez Figma" width="30px" src="./Figma.png" />
+  <img alt="Ian Cedric Ramirez Figma" width="20px" src="./Figma.png" />
 </a>
 <a href="https://www.linkedin.com/in/ian-cedric-ramirez">
   <img alt="Ian Cedric Ramirez LinkdeIN" width="30px" src="./linkedin.png" />
