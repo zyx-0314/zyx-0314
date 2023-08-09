@@ -154,7 +154,18 @@ company: N/A
       "File Locations"
     ],
     "tech": ["Next.JS", "Firebase", "Emotion CSS", "Tailwind CSS"],
-    "remarks": "Commissioned Project"
+    "remarks": "Commission Project"
+  },
+  {
+    "type": "Pekemon Eco - Exercise Project",
+    "description": "A Pokemon Web Based Rogue JRPG Game where Pokemon are scattered based upon their eco-systems.",
+    "features": [
+      "Hunt, Capture, Tame and Battle",
+      "Craft and Explore",
+      "Solo Play Game"
+    ],
+    "tech": ["Next.JS", "Vercel KV", "Emotion CSS", "Tailwind CSS"],
+    "remarks": "Exercise Project"
   },
 ]
 ```
@@ -171,7 +182,7 @@ company: N/A
       "File Locations"
     ],
     "tech": "Next.JS",
-    "remarks": "Commissioned Project"
+    "remarks": "Commission Project, Local Hosted, JSON File Saving"
   },
   {
     "type": "Portfolio Page",
