@@ -119,11 +119,10 @@ company: N/A
   ]
 
   "currently_learning": [
-    "NextJS",
-    "Non-RDB"
+    "API Testing",
   ]
 
-  "will_learn": [ "NodeJS" ]
+  "will_learn": [ "Vue" ]
 
   "hobbies": [
     "Air-Soft",
@@ -157,15 +156,29 @@ company: N/A
     "remarks": "Commission Project"
   },
   {
-    "type": "Pekemon Eco - Exercise Project",
-    "description": "A Pokemon Web Based Rogue JRPG Game where Pokemon are scattered based upon their eco-systems.",
+    "type": "Ecommerce CMS",
+    "description": "The system are content management system for multiple ECommerce.",
     "features": [
-      "Hunt, Capture, Tame and Battle",
-      "Craft and Explore",
-      "Solo Play Game"
+      "Create, Read, Update and Delete Products, Orders and Promotions.",
+      "Track Orders",
+      "Manage Multiple Ecommerce.",
     ],
-    "tech": ["Next.JS", "Vercel KV", "Emotion CSS", "Tailwind CSS"],
-    "remarks": "Exercise Project"
+    "tech": ["Next.JS", "MySQL", "Tailwind CSS"],
+    "link": {
+      "Deployed": "https://ecommerce-cms-sample-project.vercel.app/",
+    }
+  },
+  {
+    "type": "Ecommerce",
+    "description": "An Ecommerce website connected to CMS and acts as Front Pages for customers.",
+    "features": [
+      "Display promotions and Available Product.",
+      "Track Orders",
+    ],
+    "tech": ["Next.JS", "Tailwind CSS"],
+    "link": {
+      "Deployed": "https://store-1-ecommerce-sample-project.vercel.app/",
+    }
   },
 ]
 ```
@@ -188,12 +201,10 @@ company: N/A
     "type": "Portfolio Page",
     "description": "The system compiles membership information of the local church.",
     "features": [
-      "Create, Read, Update and Delete Documents.",
-      "Track Members Documents.",
-      "Track Registered Documents and Request Documents.",
-      "File Locations"
+      "Display Projects.",
+      "Works as Resume.",
     ],
-    "tech": ["Next.JS", "Emotion CSS", "Tailwind CSS"],
+    "tech": ["Next.JS", "Tailwind CSS"],
     "link": {
       "UI/UX": "https://www.figma.com/community/file/1268740358486001871/Portfolio-Project",
       "Source Code": "https://github.com/zyx-0314/portfolio",
@@ -202,23 +213,6 @@ company: N/A
   },
 ```
 
-
-<br/>
-
----
-
-<br/>
-
-**🐱 My GitHub Data** 
-
-> 🏆 670 Contributions in the Year 2023
- > 
-> 💼 Opted to Hire
- > 
-> 📜 5 Public Repositories 
- > 
-> 🔑 19 Private Repositories 
- > 
 
 <br/>
 
