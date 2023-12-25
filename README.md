@@ -9,7 +9,7 @@
   <a href="https://github.com/zyx-0314/">
     <img src="./nyebe-logo-clear-white-400px.png" alt="Logo" width="100" height="100">
   </a>
-  <p> Aspiring Software Engineer 🧑‍💻 </p>
+  <p> Instructor I @ FEU Tech </p>
 
 </div>
 
@@ -37,9 +37,9 @@
 name: Ian Cedric 'Zyx' Ramirez
 located_in: Philippines
 from: Philippines
-job: N/A
+job: Insructor I
 education: [ "Bachelor's in Computer Science" ]
-company: N/A
+company: Far Eastern University - Institute of Technology
 ```
 **:zzz: Experience.json:**
 ```json
@@ -47,10 +47,16 @@ company: N/A
   {
     "title": "Software Engineer - Intern",
     "company": "Argon Software",
-    "location": "Philippines",
+    "location": "Daraga, Albay, Philippines",
     "dates": "March 2023 - June 2023",
     "duration": "4 months",
-  }
+  },
+  {
+    "title": "Instructor I",
+    "company": "Far Eastern University - Institute of Technology",
+    "location: "Sampaloc, Manila, Philippines",
+    "dates": "October 2023 - Present",
+  },
 ]
 
 ```
@@ -69,7 +75,10 @@ company: N/A
   "Game-Dev": [
     "Game Design",
     "Game Development"
-  ]
+  ],
+  "Instructor": [
+    "College Level"
+  ],
 }
 ```
 
