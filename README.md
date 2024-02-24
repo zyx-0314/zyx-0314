@@ -13,6 +13,11 @@
 
 </div>
 
+[![Profile Visits][Profile.com]][Profile.com]
+  
+[Profile.com]: https://visitcount.itsvg.in/api?id=zyx-0314&icon=0&color=0
+[Profile.com]: [https://laravel.com](https://visitcount.itsvg.in)
+
 <br />
 
 <p align="center">
