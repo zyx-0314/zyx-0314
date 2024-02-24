@@ -54,7 +54,7 @@ company: Far Eastern University - Institute of Technology
   {
     "title": "Instructor I",
     "company": "Far Eastern University - Institute of Technology",
-    "location: "Sampaloc, Manila, Philippines",
+    "location": "Sampaloc, Manila, Philippines",
     "dates": "October 2023 - Present",
   },
 ]
