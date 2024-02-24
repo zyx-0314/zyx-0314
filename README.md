@@ -112,7 +112,12 @@ company: Far Eastern University - Institute of Technology
 
 [![AI][Docker.com]][Docker-url] - [![Postman][Postman.com]][Postman-url] - [![Github][Github.com]][Github-url] - [![Android-studio][Android-studio.com]][Android-studio-url] - [![Visual-studio-code][Visual-studio-code.com]][Visual-studio-code-url] - [![Unity][Unity.com]][Unity-url] - [![Unreal-engine][unreal-engine.com]][unreal-engine-url] - [![Insomia][insomia.com]][insomia-url]
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zyx-0314&show_icons=true&locale=en&layout=compact" alt="zyx-0314" /></p>
+**:notebook: Github_Stats.json:**
+
+<div align="center">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" /></p>
+</div>
 
 **:notebook: Other_Info.json:**
 ```json
