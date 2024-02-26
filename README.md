@@ -125,8 +125,9 @@ company: Far Eastern University - Institute of Technology
   </p>
 </div>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+
+<figure><embed src="https://wakatime.com/share/@zyx0314/0f0dfc41-af8f-4a5c-afaf-0a3306fb840d.svg"></embed></figure>
+
 
 **:notebook: Other_Info.json:**
 ```json
