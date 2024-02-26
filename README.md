@@ -120,8 +120,8 @@ company: Far Eastern University - Institute of Technology
 
 <div align="center" float="left">
   <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" width=550 />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" width=415 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" width=400 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" width=310 />
   </p>
 </div>
 
