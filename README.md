@@ -125,6 +125,9 @@ company: Far Eastern University - Institute of Technology
   </p>
 </div>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 **:notebook: Other_Info.json:**
 ```json
 {
