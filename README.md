@@ -13,8 +13,6 @@
 
 </div>
 
-![](https://komarev.com/ghpvc/?username=zyx-0314)
-
 <br />
 
 <p align="center">
@@ -30,8 +28,12 @@
 <a href="https://www.facebook.com/ramirez.zyx.14/">
   <img alt="Ian Cedric Ramirez Facebook" width="30px" src="./facebook.png" />
 </a>
-<br>
+<br />
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=zyx-0314)
+
 
 **:eyes: Bio_Data.yml:**
 
@@ -116,9 +118,11 @@ company: Far Eastern University - Institute of Technology
 
 **:notebook: Github_Stats.json:**
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" /></p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" /></p>
+<div align="center" float="left">
+  <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" width=550 />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" width=415 />
+  </p>
 </div>
 
 **:notebook: Other_Info.json:**
