@@ -123,10 +123,10 @@ company: Far Eastern University - Institute of Technology
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" width=400 />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" width=310 />
   </p>
+  <img src="https://wakatime.com/share/@zyx0314/ee600e64-1959-481c-81c6-2393b140d225.svg" alt="zyx-0314" style="border-radius: 10px;" width=600></img>
 </div>
 
 
-<figure><embed src="https://wakatime.com/share/@zyx0314/0f0dfc41-af8f-4a5c-afaf-0a3306fb840d.svg"></embed></figure>
 
 
 **:notebook: Other_Info.json:**
