@@ -144,10 +144,10 @@ company: Far Eastern University - Institute of Technology
   ]
 
   "currently_learning": [
-    "API Testing",
+    "Improving Web Development",
   ]
 
-  "will_learn": [ "Vue" ]
+  "will_learn": [ "Android Development" ]
 
   "hobbies": [
     "Air-Soft",
