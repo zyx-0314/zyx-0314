@@ -170,16 +170,17 @@ company: Far Eastern University - Institute of Technology
 [
   {
     "type": "Water Station System",
-    "description": "A Simple POS customized to be used for analytics and tracking of business assets and money.",
+    "description": "An intuitive Point of Sale (POS) system tailored for water stations, equipped with advanced analytics and robust asset and financial tracking capabilities.",
     "features": [
-      "Inventory of Items.",
-      "Statistics Dashboard from DB.",
-      "Activities of Employee in Charge"
+      "Comprehensive inventory management for tracking water products and supplies.",
+      "Interactive statistics dashboard offering insightful data visualization and analysis directly from the database.",
+      "Detailed activity logs to monitor the actions and performance of employees in charge, ensuring accountability and efficiency."
     ],
-    "tech": "Next.JS, SQLite, Prisma, ShadCN",
-    "remarks": "Commission Project, Local Hosted"
-  },
+    "tech": ["Next.js, SQLite, Prisma, ShadCN"],
+    "remarks": "Commissioned project designed for local hosting, providing seamless integration with existing infrastructure."
+  }
 ]
+
 ```
 
 <h3>Done ✔️</h3>
@@ -188,67 +189,66 @@ company: Far Eastern University - Institute of Technology
 [
   {
     "type": "File Management System",
-    "description": "The System compiles documents name and locations with important data needed for quick glance and tracking.",
+    "description": "A centralized platform for managing and organizing documents, providing quick access to essential data with location details.",
     "features": [
-      "Create, Read, Update and Delete Documents with Specified Information.",
-      "Document Associated to",
-      "File Locations"
+      "Efficient CRUD operations for documents with customizable information fields.",
+      "Association of documents with specific categories and file locations for easy retrieval.",
+      "Streamlined document tracking and management capabilities."
     ],
-    "tech": "Next.JS",
-    "remarks": "Commission Project, Local Hosted, JSON File Saving"
+    "tech": "Next.js",
+    "remarks": "Commissioned project designed for local hosting, with JSON file saving functionality."
   },
   {
     "type": "Portfolio Page",
-    "description": "The system compiles membership information of the local church.",
+    "description": "A comprehensive platform showcasing the projects and works of a local church, serving as a digital resume.",
     "features": [
-      "Display Projects.",
-      "Works as Resume.",
+      "Interactive display of projects highlighting the church's achievements and initiatives.",
+      "Functions as a professional resume providing detailed information about the church's memberships and activities."
     ],
-    "tech": ["Next.JS", "Tailwind CSS"],
+    "tech": ["Next.js", "Tailwind CSS"],
     "link": {
       "UI/UX": "https://www.figma.com/community/file/1268740358486001871/Portfolio-Project",
       "Source Code": "https://github.com/zyx-0314/portfolio",
-      "Deployed": "https://ian-cedric-ramirez.vercel.app/",
+      "Deployed": "https://ian-cedric-ramirez.vercel.app/"
     }
   },
   {
     "type": "Local Church Membership Management System",
-    "description": "The system compiles membership information of the local church.",
+    "description": "A robust system for managing membership information and documents within the local church community.",
     "features": [
-      "Create, Read, Update and Delete Documents.",
-      "Track Members Documents.",
-      "Track Registered Documents and Request Documents.",
-      "File Locations"
+      "Comprehensive CRUD functionality for member documents with detailed tracking and updating capabilities.",
+      "Efficient tracking of registered and requested documents, ensuring smooth document flow within the church.",
+      "Integration with Firebase for secure data storage and management."
     ],
-    "tech": ["Next.JS", "Firebase", "Emotion CSS", "Tailwind CSS"],
-    "remarks": "Commission Project"
+    "tech": ["Next.js", "Firebase", "Emotion CSS", "Tailwind CSS"],
+    "remarks": "Commissioned project tailored for efficient church membership management."
   },
   {
     "type": "Ecommerce CMS",
-    "description": "The system are content management system for multiple ECommerce.",
+    "description": "A versatile content management system designed to manage multiple ECommerce platforms efficiently.",
     "features": [
-      "Create, Read, Update and Delete Products, Orders and Promotions.",
-      "Track Orders",
-      "Manage Multiple Ecommerce.",
+      "Comprehensive CRUD operations for products, orders, and promotions across multiple ECommerce platforms.",
+      "Efficient order tracking and management for streamlined business operations."
     ],
-    "tech": ["Next.JS", "MySQL", "Tailwind CSS"],
+    "tech": ["Next.js", "MySQL", "Tailwind CSS"],
     "link": {
-      "Deployed": "https://ecommerce-cms-sample-project.vercel.app/",
+      "Deployed": "https://ecommerce-cms-sample-project.vercel.app/"
     }
   },
   {
     "type": "Ecommerce",
-    "description": "An Ecommerce website connected to CMS and acts as Front Pages for customers.",
+    "description": "An intuitive Ecommerce website seamlessly connected to a CMS, providing a user-friendly interface for customers.",
     "features": [
-      "Display promotions and Available Product.",
-      "Track Orders",
+      "Dynamic display of promotions and available products, enhancing the shopping experience for customers.",
+      "Efficient order tracking and management for customer convenience."
     ],
-    "tech": ["Next.JS", "Tailwind CSS"],
+    "tech": ["Next.js", "Tailwind CSS"],
     "link": {
-      "Deployed": "https://store-1-ecommerce-sample-project.vercel.app/",
+      "Deployed": "https://store-1-ecommerce-sample-project.vercel.app/"
     }
-  },
+  }
 ]
+
 ```
 
 
