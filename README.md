@@ -123,7 +123,8 @@ company: Far Eastern University - Institute of Technology
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" width=400 />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" width=310 />
   </p>
-  <img src="https://wakatime.com/share/@zyx0314/ee600e64-1959-481c-81c6-2393b140d225.svg" alt="zyx-0314" style="border-radius: 10px;" width=600></img>
+  <img src="https://wakatime.com/share/@zyx0314/b8b01add-35a6-463a-bebc-e29327809b32.svg" alt="zyx-0314" style="border-radius: 10px;" width=600></img>
+  
 </div>
 
 
@@ -168,6 +169,49 @@ company: Far Eastern University - Institute of Technology
 ```json
 [
   {
+    "type": "Water Station System",
+    "description": "A Simple POS customized to be used for analytics and tracking of business assets and money.",
+    "features": [
+      "Inventory of Items.",
+      "Statistics Dashboard from DB.",
+      "Activities of Employee in Charge"
+    ],
+    "tech": "Next.JS, SQLite, Prisma, ShadCN",
+    "remarks": "Commission Project, Local Hosted"
+  },
+]
+```
+
+<h3>Done ✔️</h3>
+
+```json
+[
+  {
+    "type": "File Management System",
+    "description": "The System compiles documents name and locations with important data needed for quick glance and tracking.",
+    "features": [
+      "Create, Read, Update and Delete Documents with Specified Information.",
+      "Document Associated to",
+      "File Locations"
+    ],
+    "tech": "Next.JS",
+    "remarks": "Commission Project, Local Hosted, JSON File Saving"
+  },
+  {
+    "type": "Portfolio Page",
+    "description": "The system compiles membership information of the local church.",
+    "features": [
+      "Display Projects.",
+      "Works as Resume.",
+    ],
+    "tech": ["Next.JS", "Tailwind CSS"],
+    "link": {
+      "UI/UX": "https://www.figma.com/community/file/1268740358486001871/Portfolio-Project",
+      "Source Code": "https://github.com/zyx-0314/portfolio",
+      "Deployed": "https://ian-cedric-ramirez.vercel.app/",
+    }
+  },
+  {
     "type": "Local Church Membership Management System",
     "description": "The system compiles membership information of the local church.",
     "features": [
@@ -205,36 +249,6 @@ company: Far Eastern University - Institute of Technology
     }
   },
 ]
-```
-
-<h3>Done ✔️</h3>
-
-```json
-  {
-    "type": "File Management System",
-    "description": "The System compiles documents name and locations with important data needed for quick glance and tracking.",
-    "features": [
-      "Create, Read, Update and Delete Documents with Specified Information.",
-      "Document Associated to",
-      "File Locations"
-    ],
-    "tech": "Next.JS",
-    "remarks": "Commission Project, Local Hosted, JSON File Saving"
-  },
-  {
-    "type": "Portfolio Page",
-    "description": "The system compiles membership information of the local church.",
-    "features": [
-      "Display Projects.",
-      "Works as Resume.",
-    ],
-    "tech": ["Next.JS", "Tailwind CSS"],
-    "link": {
-      "UI/UX": "https://www.figma.com/community/file/1268740358486001871/Portfolio-Project",
-      "Source Code": "https://github.com/zyx-0314/portfolio",
-      "Deployed": "https://ian-cedric-ramirez.vercel.app/",
-    }
-  },
 ```
 
 
