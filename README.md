@@ -47,22 +47,31 @@ company: Far Eastern University - Institute of Technology
 ```
 **:zzz: Experience.json:**
 ```json
+"2024": [
+  {
+    "title": "Instructor I",
+    "company": "Far Eastern University - Institute of Technology",
+    "location": "Sampaloc, Manila, Philippines",
+    "dates": "January - Present ",
+    "duration": "3 months",
+  },
+],
 "2023": [
   {
     "title": "Software Engineer - Intern",
     "company": "Argon Software",
     "location": "Daraga, Albay, Philippines",
-    "dates": "March 2023 - June 2023",
+    "dates": "March - June",
     "duration": "4 months",
   },
   {
     "title": "Instructor I",
     "company": "Far Eastern University - Institute of Technology",
     "location": "Sampaloc, Manila, Philippines",
-    "dates": "October 2023 - Present",
+    "dates": "October - December ",
+    "duration": "3 months",
   },
-]
-
+],
 ```
 
 **:screwdriver:Technical_Background.json**
