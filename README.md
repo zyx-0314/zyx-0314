@@ -132,12 +132,21 @@ company: Far Eastern University - Institute of Technology
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=zyx-0314&show_icons=true&theme=dark" alt="zyx-0314" width=400 />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyx-0314&layout=compact&theme=dark" alt="zyx-0314" width=310 />
   </p>
-  <img src="https://wakatime.com/share/@zyx0314/b8b01add-35a6-463a-bebc-e29327809b32.svg" alt="zyx-0314" style="border-radius: 10px;" width=600></img>
+  <p>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zyx-0314&theme=radical&hide_border=false" alt="zyx-0314" width=430 />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zyx-0314&theme=tokyonight&utcOffset=+08" alt="zyx-0314" width=310 />
+  </p>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zyx-0314&theme=tokyonight" alt="zyx-0314" style="max-width: 100%;border: 1px solid white;border-radius: 6px;" width=600></img>
+
+  <br/>
+  <img src="https://wakatime.com/share/@zyx0314/b8b01add-35a6-463a-bebc-e29327809b32.svg" alt="zyx-0314" style="max-width: 100%;border: 1px solid white;border-radius: 6px;" width=600 ></img>
   
 </div>
 
+<br/>
+<br/>
 
-
+---
 
 **:notebook: Other_Info.json:**
 ```json
