@@ -119,7 +119,7 @@ company: Far Eastern University - Institute of Technology
 
 :bank: Database
 
-[![MySQL][Mysql.com]][Mysql-url] - [![MariaDB][MariaDB.com]][MariaDB-url]
+[![MySQL][Mysql.com]][Mysql-url] - [![MariaDB][MariaDB.com]][MariaDB-url] - [![MongoDB][MongoDB.com]][MongoDB-url]
 
 :wrench: Tools:
 
@@ -303,6 +303,8 @@ note: thanks to both of them!
 [MySQL-url]: https://www.mysql.com
 [MariaDB.com]: https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white
 [MariaDB-url]: https://mariadb.org
+[MongoDB.com]: https://img.shields.io/badge/MongoDB-003545?style=for-the-badge&logo=mongodb&logoColor=white
+[MongoDB-url]: https://mongodb.org
 [NodeJS.com]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white
 [NodeJS-url]: https://nodejs.org/en/
 [NextJS.com]: https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
