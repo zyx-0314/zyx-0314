@@ -1,7 +1,4 @@
 <!-- Banner -->
-<p align="center">
-  <img alt="loficity" width="1000px" src="./banner.gif"</img>
-</p>
 
 <!-- Logo -->
 <br />
@@ -10,8 +7,11 @@
     <img src="./nyebe-logo-clear-white-400px.png" alt="Logo" width="100" height="100">
   </a>
   <p> Instructor I @ FEU Tech </p>
-
 </div>
+
+<p align="center">
+  <a href="https://app.daily.dev/iancedricramirez"><img src="https://api.daily.dev/devcards/v2/fuxV92tvLHVrFFJkPp3Oi.png?type=default&r=na9" width="356" alt="Ian Cedric Ramirez's Dev Card"/></a>
+</p>
 
 <br />
 
