@@ -105,9 +105,13 @@ company: Far Eastern University - Institute of Technology
 
 [![C++][cpp.com]][cpp-url] - [![C#][csharp.com]][csharp-url]
 
-:iphone:Mobile Dev:
+:iphone: Mobile Dev:
 
 [![Kotlin][kotlin.com]][kotlin-url] - [![ReactNative][reactnative.com]][reactnative-url]
+
+:computer: Cross-Platform:
+
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white) - ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9)
 
 :pager: Web Dev:
 
@@ -162,17 +166,20 @@ company: Far Eastern University - Institute of Technology
   ]
 
   "currently_learning": [
-    "Improving Web Development",
+    "Certifications for Web Development Track",
+    "Cyber Security Basics"
   ]
 
-  "will_learn": [ "Android Development" ]
+  "will_learn": [ "Fire Base" ]
 
   "hobbies": [
     "Air-Soft",
     "Anime - Manga",
     "Games",
     "Music",
-    "Travel"
+    "Travel",
+    "Marathon",
+    "Swimming"
   ]
 }
 ```
@@ -187,15 +194,17 @@ company: Far Eastern University - Institute of Technology
 ```json
 [
   {
-    "type": "Water Station System",
-    "description": "An intuitive Point of Sale (POS) system tailored for water stations, equipped with advanced analytics and robust asset and financial tracking capabilities.",
+    "type": "Template Projects for Cross Platform Softwares with Databases and Web Application",
+    "description": "This project provides templates for developing cross-platform software integrated with various databases and web applications. It is designed for competition use, organizational tooling, and skill enhancement, utilizing modern technologies for scalable and maintainable solutions.",
     "features": [
-      "Comprehensive inventory management for tracking water products and supplies.",
-      "Interactive statistics dashboard offering insightful data visualization and analysis directly from the database.",
-      "Detailed activity logs to monitor the actions and performance of employees in charge, ensuring accountability and efficiency."
+      "Cross-Platform Compatibility: Use Tauri and Electron for Windows, macOS, and Linux applications.",
+      "Full-Stack Integration: Build web apps with Next.js and use Prisma for database interaction.",
+      "Modular and Scalable Design: Enhance code reusability and maintain a consistent UI/UX with ShadCN.",
+      "Efficient Database Management: Support SQLite, MongoDB, and MySQL.",
+      "Skill Enhancement: Provide documentation and pre-configured environments for streamlined development."
     ],
-    "tech": ["Next.js, SQLite, Prisma, ShadCN"],
-    "remarks": "Commissioned project designed for local hosting, providing seamless integration with existing infrastructure."
+    "tech": ["Tauri, Electron, Next.js, SQLite, MongoDB, MYSQL, Prisma, ShadCN"],
+    "remarks": "Ideal for competitions and organizational projects, these templates foster skill growth and efficient project execution."
   }
 ]
 
@@ -264,6 +273,17 @@ company: Far Eastern University - Institute of Technology
     "link": {
       "Deployed": "https://store-1-ecommerce-sample-project.vercel.app/"
     }
+  },
+  {
+    "type": "Water Station System",
+    "description": "An intuitive Point of Sale (POS) system tailored for water stations, equipped with advanced analytics and robust asset and financial tracking capabilities.",
+    "features": [
+      "Comprehensive inventory management for tracking water products and supplies.",
+      "Interactive statistics dashboard offering insightful data visualization and analysis directly from the database.",
+      "Detailed activity logs to monitor the actions and performance of employees in charge, ensuring accountability and efficiency."
+    ],
+    "tech": ["Next.js, SQLite, Prisma, ShadCN"],
+    "remarks": "Commissioned project designed for local hosting, providing seamless integration with existing infrastructure."
   }
 ]
 
