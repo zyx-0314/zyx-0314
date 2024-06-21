@@ -167,7 +167,8 @@ company: Far Eastern University - Institute of Technology
 
   "currently_learning": [
     "Certifications for Web Development Track",
-    "Cyber Security Basics"
+    "Cyber Security Basics",
+    "Cross-Platform Web Dev | Tauri-Electron with NextJS, ORMs and DB's"
   ]
 
   "will_learn": [ "Fire Base" ]
