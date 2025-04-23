@@ -41,8 +41,8 @@
 name: Ian Cedric 'Zyx' Ramirez
 located_in: Philippines
 from: Philippines
-job: Insructor I
-education: [ "Bachelor's in Computer Science" ]
+job: Insructor I & Developer
+education: [ "Bachelor's in Computer Science", "Masters in Information technology - Cyber Security (Ongoing)" ]
 company: Far Eastern University - Institute of Technology
 ```
 **:zzz: Experience.json:**
@@ -52,8 +52,8 @@ company: Far Eastern University - Institute of Technology
     "title": "Instructor I",
     "company": "Far Eastern University - Institute of Technology",
     "location": "Sampaloc, Manila, Philippines",
-    "dates": "January - Present ",
-    "duration": "3 months",
+    "dates": "January - April ",
+    "duration": "1 year & 5 months",
   },
 ],
 "2023": [
@@ -166,12 +166,11 @@ company: Far Eastern University - Institute of Technology
   ]
 
   "currently_learning": [
-    "Certifications for Web Development Track",
+    "Certifications for Cyber Security",
     "Cyber Security Basics",
-    "Cross-Platform Web Dev | Tauri-Electron with NextJS, ORMs and DB's"
   ]
 
-  "will_learn": [ "Fire Base" ]
+  "will_learn": [ "Blue Team Tools" ]
 
   "hobbies": [
     "Air-Soft",
@@ -179,7 +178,7 @@ company: Far Eastern University - Institute of Technology
     "Games",
     "Music",
     "Travel",
-    "Marathon",
+    "Running",
     "Swimming"
   ]
 }
@@ -195,14 +194,11 @@ company: Far Eastern University - Institute of Technology
 ```json
 [
   {
-    "type": "Template Projects for Cross Platform Softwares with Databases and Web Application",
-    "description": "This project provides templates for developing cross-platform software integrated with various databases and web applications. It is designed for competition use, organizational tooling, and skill enhancement, utilizing modern technologies for scalable and maintainable solutions.",
+    "type": "Personal Website 2.0",
+    "description": "This project will be the version 2 for my personal portfolio.",
     "features": [
-      "Cross-Platform Compatibility: Use Tauri and Electron for Windows, macOS, and Linux applications.",
-      "Full-Stack Integration: Build web apps with Next.js and use Prisma for database interaction.",
-      "Modular and Scalable Design: Enhance code reusability and maintain a consistent UI/UX with ShadCN.",
-      "Efficient Database Management: Support SQLite, MongoDB, and MySQL.",
-      "Skill Enhancement: Provide documentation and pre-configured environments for streamlined development."
+      "CMS.",
+      "Responsive.",
     ],
     "tech": ["Tauri, Electron, Next.js, SQLite, MongoDB, MYSQL, Prisma, ShadCN"],
     "remarks": "Ideal for competitions and organizational projects, these templates foster skill growth and efficient project execution."
@@ -215,6 +211,19 @@ company: Far Eastern University - Institute of Technology
 
 ```json
 [
+  {
+    "type": "Template Projects for Cross Platform Softwares with Databases and Web Application",
+    "description": "This project provides templates for developing cross-platform software integrated with various databases and web applications. It is designed for competition use, organizational tooling, and skill enhancement, utilizing modern technologies for scalable and maintainable solutions.",
+    "features": [
+      "Cross-Platform Compatibility: Use Tauri and Electron for Windows, macOS, and Linux applications.",
+      "Full-Stack Integration: Build web apps with Next.js and use Prisma for database interaction.",
+      "Modular and Scalable Design: Enhance code reusability and maintain a consistent UI/UX with ShadCN.",
+      "Efficient Database Management: Support SQLite, MongoDB, and MySQL.",
+      "Skill Enhancement: Provide documentation and pre-configured environments for streamlined development."
+    ],
+    "tech": ["Tauri, Electron, Next.js, SQLite, MongoDB, MYSQL, Prisma, ShadCN"],
+    "remarks": "Ideal for competitions and organizational projects, these templates foster skill growth and efficient project execution."
+  },
   {
     "type": "File Management System",
     "description": "A centralized platform for managing and organizing documents, providing quick access to essential data with location details.",
