@@ -6,7 +6,7 @@
   <a href="https://github.com/zyx-0314/">
     <img src="./nyebe-logo-clear-white-400px.png" alt="Logo" width="100" height="100">
   </a>
-  <p> Instructor I @ FEU Tech </p>
+  <p> Full Stack Enginner </p>
 </div>
 
 <p align="center">
@@ -41,19 +41,28 @@
 name: Ian Cedric 'Zyx' Ramirez
 located_in: Philippines
 from: Philippines
-job: Insructor I & Developer
+job: Full Stack Engineer 
 education: [ "Bachelor's in Computer Science", "Masters in Information technology - Cyber Security (Ongoing)" ]
-company: Far Eastern University - Institute of Technology
+company: People Dynamic's Inc.
 ```
 **:zzz: Experience.json:**
 ```json
-"2024": [
+"2025": [
   {
-    "title": "Instructor I",
+    "title": "Instructor I - Web Developer",
     "company": "Far Eastern University - Institute of Technology",
     "location": "Sampaloc, Manila, Philippines",
-    "dates": "January - April ",
-    "duration": "1 year & 5 months",
+    "dates": "January - December ",
+    "duration": "1 year",
+  },
+],
+"2024": [
+  {
+    "title": "Instructor I - Web Developer",
+    "company": "Far Eastern University - Institute of Technology",
+    "location": "Sampaloc, Manila, Philippines",
+    "dates": "January - December ",
+    "duration": "1 year",
   },
 ],
 "2023": [
