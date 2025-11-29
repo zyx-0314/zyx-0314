@@ -31,6 +31,7 @@
 <br />
 </p>
 
+[![committers.top badge](https://user-badge.committers.top/philippines_private/zyx-0314.svg)](https://user-badge.committers.top/philippines_private/zyx-0314)
 
 ![](https://komarev.com/ghpvc/?username=zyx-0314)
 
@@ -130,13 +131,23 @@ company: People Dynamic's Inc.
 
 [![TailwindCSS][TailwindCSS.com]][TailwindCSS-url] - [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 
+[![Yii2][Yii2.com]][Yii2-url] - [![CodeIgniter4][CodeIgniter4.com]][CodeIgniter4-url]
+
+[![WordPress][WordPress.com]][WordPress-url] - [![Symfony][Symfony.com]][Symfony-url]
+
 :bank: Database
 
 [![MySQL][Mysql.com]][Mysql-url] - [![MariaDB][MariaDB.com]][MariaDB-url] - [![MongoDB][MongoDB.com]][MongoDB-url]
 
 :wrench: Tools:
 
-[![AI][Docker.com]][Docker-url] - [![Postman][Postman.com]][Postman-url] - [![Github][Github.com]][Github-url] - [![Android-studio][Android-studio.com]][Android-studio-url] - [![Visual-studio-code][Visual-studio-code.com]][Visual-studio-code-url] - [![Unity][Unity.com]][Unity-url] - [![Unreal-engine][unreal-engine.com]][unreal-engine-url] - [![Insomia][insomia.com]][insomia-url]
+[![AI][Docker.com]][Docker-url] - [![Postman][Postman.com]][Postman-url] 
+
+[![Github][Github.com]][Github-url] - [![Android-studio][Android-studio.com]][Android-studio-url] 
+
+[![Visual-studio-code][Visual-studio-code.com]][Visual-studio-code-url] - [![Unity][Unity.com]][Unity-url] 
+
+[![Unreal-engine][unreal-engine.com]][unreal-engine-url] - [![Insomia][insomia.com]][insomia-url]
 
 **:notebook: Github_Stats.json:**
 
@@ -175,11 +186,10 @@ company: People Dynamic's Inc.
   ]
 
   "currently_learning": [
-    "Certifications for Cyber Security",
-    "Cyber Security Basics",
+    "Cloud Services",
+    "Cyber Security",
+    "DevOps",
   ]
-
-  "will_learn": [ "Blue Team Tools" ]
 
   "hobbies": [
     "Air-Soft",
@@ -188,7 +198,8 @@ company: People Dynamic's Inc.
     "Music",
     "Travel",
     "Running",
-    "Swimming"
+    "Swimming",
+    "Hike",
   ]
 }
 ```
@@ -209,9 +220,19 @@ company: People Dynamic's Inc.
       "CMS.",
       "Responsive.",
     ],
-    "tech": ["Tauri, Electron, Next.js, SQLite, MongoDB, MYSQL, Prisma, ShadCN"],
-    "remarks": "Ideal for competitions and organizational projects, these templates foster skill growth and efficient project execution."
-  }
+    "tech": ["Next.js, PostgreSQL, ShadCN"],
+    "remarks": "Showcase Freelancing."
+  },
+  {
+    "type": "SaaS Inventory System",
+    "description": "This project is personal project for organizations I belong.",
+    "features": [
+      "CMS.",
+      "Inventory.",
+    ],
+    "tech": ["Next.js, PostgreSQL, ShadCN"],
+    "remarks": "Multi Tenant Inventory System."
+  },
 ]
 
 ```
@@ -354,6 +375,15 @@ note: thanks to both of them!
 [TailwindCSS-url]: https://tailwindcss.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
+[Yii2.com]: https://img.shields.io/badge/Yii2-34495E?style=for-the-badge&logo=yii&logoColor=white
+[Yii2-url]: https://www.yiiframework.com
+[CodeIgniter4.com]: https://img.shields.io/badge/CodeIgniter%204-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white
+[CodeIgniter4-url]: https://codeigniter.com
+[WordPress.com]: https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white
+[WordPress-url]: https://wordpress.org
+[Symfony.com]: https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white
+[Symfony-url]: https://symfony.com
+
 
 [Docker.com]: https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
 [Docker-url]: https://www.docker.com
